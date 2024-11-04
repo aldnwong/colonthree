@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "node index.js",
-    "cmdGuild": "node deploycmdGUILD.js",
-    "cmdGlobal": "node deploycmdGLOBAL.js"
+    "cmd": "node registerHandler.js"
   },
   "author": "aldnwong",
   "license": "ISC",
