@@ -1,7 +1,7 @@
 {
   "name": "colonthree",
-  "version": "0.0.1",
-  "description": ":3",
+  "version": "0.1",
+  "description": "Discord bot for turning an AFK channel into a dunk tank",
   "main": "index.js",
   "scripts": {
     "dev": "node index.js",
